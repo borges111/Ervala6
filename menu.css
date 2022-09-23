@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Poppins:wght@200&display=swap');
+
+* {
+
+    font-family: 'Bungee Spice' cursive;
+    box-sizing: border-box;
+
+
+}
+
+#menu-h {
+    max-width: 900px;
+    list-style: none;
+    padding: 0;
+    background-color: black;
+}
+
+#menu-h ul li {
+    display: inline;
+}
+
+#menu-h ul li {
+    color: rgb(218, 171, 171);
+    padding: 25px;
+    display: inline-block;
+    transition: background .4s;
+
+}
+
+#menu-h ul li {
+    background-color: rgb(48, 42, 165);
+
+
+}
+
+#menu-h ul:last-child {
+    float: left;
+    background-color: rgb(5, 2, 17);
+}
